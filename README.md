@@ -38,7 +38,7 @@
 2. Visualizes changes in the number of patients and route with time
 3. Displays non-COVID-19 data as heatmap
 
-![visualizer.gif]https://github.com/ThisIsIsaac/COVID-19_Korea_Dataset/blob/master/images/visualizer.gif
+![visualizer.gif](https://github.com/ThisIsIsaac/COVID-19_Korea_Dataset/blob/master/images/visualizer.gif)
 
 ---
 
