@@ -55,10 +55,8 @@
 
 ## How to Give Feedback
 
-- **Data request**: Fill out [this]() issue to request for specefic data, and we will try our best to gather them.
-- **Errors in values**: Fill out [this]() issue if there are alarming errors in the existing data. 
-- **Visualizer Bug**: Fill out [this]() issue if there are bugs in the visualizer.
-- **Visualizer Feature Request**: Fill out [this]() issue if there are features you
+- **Data request**: Fill out [this](https://github.com/ThisIsIsaac/COVID-19_Korea_Dataset/issues/new?assignees=&labels=&template=data-request.md&title=) issue to request for specefic data, and we will try our best to gather them.
+- **Errors in values**: Fill out [this](https://github.com/ThisIsIsaac/COVID-19_Korea_Dataset/issues/new?assignees=&labels=&template=data-error-report.md&title=) issue if there are alarming errors in the existing data. 
 
 ---
 
