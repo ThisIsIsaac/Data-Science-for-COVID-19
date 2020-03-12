@@ -1,3 +1,4 @@
+
 ![banner](https://github.com/ThisIsIsaac/COVID-19_Korea_Dataset/blob/master/images/banner.png)
 
 ---
@@ -80,3 +81,8 @@
 - [Mu Hwan Kim](https://github.com/minty99) (data)
 - [Dong Hwan Jang](https://github.com/DongHwanJang) (data)
 - [Won Hwang](https://github.com/mangocode96) (Visualizer)
+
+---
+
+## License
+CC BY-NC-SA 4.0
