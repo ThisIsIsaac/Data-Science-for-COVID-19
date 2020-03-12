@@ -1,5 +1,7 @@
 ![banner](https://github.com/ThisIsIsaac/COVID-19_Korea_Dataset/blob/master/images/banner.png)
 
+---
+
 ### COVID-19 Korea Dataset with patient routes and visualizer
 
 ![heatmap.gif](https://github.com/ThisIsIsaac/COVID-19_Korea_Dataset/blob/master/images/heatmap.gif)
