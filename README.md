@@ -15,10 +15,6 @@
 **Dataset components**:
 1. Patient routes
 2. Patient age / gender / diagnosed date (based on Jihoo's [dataset](https://github.com/jihoo-kim/Coronavirus-Dataset))
-3. 13 Pandamic types statistics
-4. 8 Cancer statistics
-5. Health-related habits (smoking, drinking, exercise routine)
-6. Statistics on causes of death
 
 ---
 
