@@ -1,8 +1,4 @@
-
-
-
-
-
+![banner](https://github.com/ThisIsIsaac/COVID-19_Korea_Dataset/blob/master/images/banner.png)
 
 ### The Biggest COVID-19 Korea Dataset
 
