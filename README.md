@@ -55,10 +55,10 @@
 
 ## How to Give Feedback
 
-- **Data request**: Fill out [this] issue to request for specefic data, and we will try our best to gather them.
-- **Errors in values**: Fill out [this] issue if there are alarming errors in the existing data. 
-- **Visualizer Bug**: Fill out [this] issue if there are bugs in the visualizer.
-- **Visualizer Feature Request**: Fill out this issue if there are features you
+- **Data request**: Fill out [this]() issue to request for specefic data, and we will try our best to gather them.
+- **Errors in values**: Fill out [this]() issue if there are alarming errors in the existing data. 
+- **Visualizer Bug**: Fill out [this]() issue if there are bugs in the visualizer.
+- **Visualizer Feature Request**: Fill out [this]() issue if there are features you
 
 ---
 
@@ -78,7 +78,7 @@
 
 ## Contributors
 
-- Joong Kun Lee (Team Lead)
-- Mu Hwan Kim (data)
-- Dong Hwan Jang (data)
-- Won Hwang (Visualizer)
+- [Joong Kun Lee](https://github.com/ThisIsIsaac) (Team Lead)
+- [Mu Hwan Kim](https://github.com/minty99) (data)
+- [Dong Hwan Jang](https://github.com/DongHwanJang) (data)
+- [Won Hwang](https://github.com/mangocode96) (Visualizer)
