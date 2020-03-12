@@ -36,17 +36,18 @@
 2. Visualizes changes in the number of patients and route with time
 3. Displays non-COVID-19 data as heatmap
 
-<GIF>
+
 
 ---
 
 ## Upcoming
-[] Official partnership with the Korean CDC
-[] More patient routes from non-Seoul provinces
-[] Daily-updates on COVID-19
-[] Release visualizer
-[] More features for the visualizer
-[] More non-COVD-19 data
+
+- [ ] Official partnership with the Korean CDC (in progress)
+- [ ] More patient routes from non-Seoul provinces
+- [ ] Daily-updates on COVID-19
+- [ ] Release visualizer
+- [ ] More features for the visualizer
+- [ ] More non-COVD-19 data
 
 ---
 
