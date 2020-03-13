@@ -20,13 +20,14 @@
 ## 2. Epidemics & Medical Statistics
 
 **Dataset components**:
-1. Major epidemics 
-2. Medical facilities
-3. Major vaccines
-4. Population
-5. Annual health screening results
-6. Depression & mental health
-7. Life satisfaction
+1. 22 major epidemics 
+1. 16 vaccines
+1. 7 chronic diseases
+1. Annual health screening results
+1. Medical facilities
+1. Population
+1. Depression & mental health
+1. Life satisfaction
 
 ---
 
