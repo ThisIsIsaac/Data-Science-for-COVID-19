@@ -12,7 +12,7 @@
 ## 1. COVID-19 Korea Dataset with Patient Routes
 
 **Dataset components**:
-1. Patient routes (more comming!)
+1. Patient routes (more coming!)
 2. Patient age / gender / diagnosed date (based on Jihoo's [dataset](https://github.com/jihoo-kim/Coronavirus-Dataset))
 
 ---
