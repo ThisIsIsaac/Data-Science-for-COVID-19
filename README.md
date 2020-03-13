@@ -1,7 +1,9 @@
 
 ![banner](https://github.com/ThisIsIsaac/COVID-19_Korea_Dataset/blob/master/images/banner.png)
 
+![issueBadge](https://img.shields.io/github/issues/ThisIsIsaac/COVID-19_Korea_Dataset)   ![starBadge](https://img.shields.io/github/stars/ThisIsIsaac/COVID-19_Korea_Dataset)   ![repoSize](https://img.shields.io/github/repo-size/ThisIsIsaac/COVID-19_Korea_Dataset)  ![lastCommit](https://img.shields.io/github/last-commit/ThisIsIsaac/COVID-19_Korea_Dataset)
 ---
+
 
 ### COVID-19 Korea Dataset with patient routes and visualizer
 
