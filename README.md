@@ -32,7 +32,7 @@
 
 ## 3. Multi-variate & Time-scrollable Data Visualizer
 
-> Comming soon!
+> Coming soon!
 
 **Key features**:
 1. Displays infected patient route and regional patient count
@@ -50,7 +50,7 @@
 - [ ] Daily-updates on COVID-19
 - [ ] Release visualizer
 - [ ] More features for the visualizer
-- [ ] More non-COVD-19 data
+- [ ] More non-COVID-19 data
 
 ---
 
