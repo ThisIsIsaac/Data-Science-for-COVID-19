@@ -1454,7 +1454,7 @@ global_id,local_id,start,end,type,latitude,longitude,province
 984,,2/21/20,2/21/20,house,,,
 984,,2/21/20,2/21/20,dentist,36.0333476,129.3661457,Gyeongsangbuk-do
 984,,2/21/20,2/21/20,health,36.0826784,129.4016179,Gyeongsangbuk-do
-984,,2/22/20,2/22/20,convenience_store,36.0829412,129.4034966,14
+984,,2/22/20,2/22/20,convenience_store,36.0829412,129.4034966,
 984,,2/25/20,2/25/20,house,,,
 1166,,2/24/20,2/24/20,,,,
 1166,,2/24/20,2/24/20,health,35.1733996,126.9121259,Kwangju
@@ -2291,17 +2291,17 @@ global_id,local_id,start,end,type,latitude,longitude,province
 ,gyeongnam_3,2/20/20,2/20/20,house,,,
 ,gyeongnam_3,2/21/20,2/21/20,health,35.2147138,128.1229368,Gyeongsangnam-do
 ,gyeongnam_3,2/21/20,2/21/20,house,,,
-,gyeongnam_3,2/16/20,2/16/20,health,35.1988193,128.566493,마산합포구 창원시 Gyeongsangnam-do
+,gyeongnam_3,2/16/20,2/16/20,health,35.1988193,128.566493,Gyeongsangnam-do
 ,gyeongnam_4,2/20/20,2/20/20,,,,
 ,gyeongnam_4,2/20/20,2/20/20,,,,
 ,gyeongnam_4,2/21/20,2/21/20,health,35.2147138,128.1229368,Gyeongsangnam-do
 ,gyeongnam_4,2/21/20,2/21/20,house,,,
-,gyeongnam_4,2/19/20,2/19/20,health,35.1988193,128.566493,마산합포구 창원시 Gyeongsangnam-do
+,gyeongnam_4,2/19/20,2/19/20,health,35.1988193,128.566493,Gyeongsangnam-do
 ,gyeongnam_5,2/20/20,2/20/20,health,35.2211536,128.6866212,Gyeongsangnam-do
 ,gyeongnam_5,2/21/20,2/21/20,health,35.2211536,128.6866212,Gyeongsangnam-do
 ,gyeongnam_5,2/21/20,2/21/20,,,,
 ,gyeongnam_5,2/22/20,2/22/20,health,35.2211536,128.6866212,Gyeongsangnam-do
-,gyeongnam_5,2/22/20,2/22/20,health,35.2279556,128.6855953,의창구 창원시 Gyeongsangnam-do
+,gyeongnam_5,2/22/20,2/22/20,health,35.2279556,128.6855953,Gyeongsangnam-do
 ,gyeongnam_5,2/22/20,2/22/20,,,,
 ,gyeongnam_5,2/14/20,2/14/20,health,35.3278882,129.0062346,Gyeongsangnam-do
 ,gyeongnam_6,2/15/20,2/15/20,bus_station,35.567239,128.162896,Hapcheon
@@ -2323,14 +2323,14 @@ global_id,local_id,start,end,type,latitude,longitude,province
 ,gyeongnam_6,2/21/20,2/21/20,,,,
 ,gyeongnam_6,2/21/20,2/21/20,health,35.5684362,128.1624944,Gyeongsangnam-do
 ,gyeongnam_6,2/22/20,2/22/20,health,35.5680195,128.1565505,Gyeongsangnam-do
-,gyeongnam_6,2/5/20,2/5/20,health,35.1988193,128.566493,마산합포구 창원시 Gyeongsangnam-do
+,gyeongnam_6,2/5/20,2/5/20,health,35.1988193,128.566493,Gyeongsangnam-do
 ,gyeongnam_7,2/17/20,2/17/20,political,35.8715163,128.5959431,Daegu
 ,gyeongnam_7,2/18/20,2/18/20,,,,
 ,gyeongnam_7,2/18/20,2/18/20,,,,
 ,gyeongnam_7,2/19/20,2/19/20,,,,
 ,gyeongnam_7,2/19/20,2/19/20,,,,
 ,gyeongnam_7,2/20/20,2/20/20,health,35.2187449,128.6724378,Gyeongsangnam-do
-,gyeongnam_7,2/20/20,2/20/20,health,35.2171214,128.670456,성산구 창원시 Gyeongsangnam-do
+,gyeongnam_7,2/20/20,2/20/20,health,35.2171214,128.670456,Gyeongsangnam-do
 ,gyeongnam_7,2/20/20,2/20/20,political,35.2197859,128.6857217,Gyeongsangnam-do
 ,gyeongnam_7,2/20/20,2/20/20,,,,
 ,gyeongnam_7,2/21/20,2/21/20,street_address,35.2236005,128.6863046,Gyeongsangnam-do
@@ -2387,15 +2387,15 @@ global_id,local_id,start,end,type,latitude,longitude,province
 ,gyeongnam_9,2/23/20,2/23/20,political,34.8899948,128.6582269,Gyeongsangnam-do
 ,gyeongnam_9,2/23/20,2/23/20,,,,
 ,gyeongnam_9,2/23/20,2/23/20,house,,,
-,gyeongnam_9,2/28/20,2/28/20,health,35.1988193,128.566493,마산합포구 창원시 Gyeongsangnam-do
+,gyeongnam_9,2/28/20,2/28/20,health,35.1988193,128.566493,Gyeongsangnam-do
 ,gyeongnam_10,2/20/20,2/20/20,church,35.798264,128.6218192,Daegu
 ,gyeongnam_10,2/22/20,2/22/20,house,,,
 ,gyeongnam_10,2/23/20,2/23/20,health,35.1824015,128.5629166,Gyeongsangnam-do
-,gyeongnam_10,2/22/20,2/22/20,health,35.1988193,128.566493,마산합포구 창원시 Gyeongsangnam-do
+,gyeongnam_10,2/22/20,2/22/20,health,35.1988193,128.566493,Gyeongsangnam-do
 ,gyeongnam_11,2/22/20,2/22/20,locality,35.8714354,128.601445,Daegu
 ,gyeongnam_11,2/23/20,2/23/20,health,35.5196565,127.7317864,Gyeongsangnam-do
 ,gyeongnam_11,2/23/20,2/23/20,locality,35.8714354,128.601445,Daegu
-,gyeongnam_11,2/21/20,2/21/20,health,35.1988193,128.566493,마산합포구 창원시 Gyeongsangnam-do
+,gyeongnam_11,2/21/20,2/21/20,health,35.1988193,128.566493,Gyeongsangnam-do
 ,gyeongnam_12,2/22/20,2/22/20,house,,,
 ,gyeongnam_12,2/22/20,2/22/20,,,,
 ,gyeongnam_12,2/22/20,2/22/20,transportation,,,
@@ -2403,7 +2403,7 @@ global_id,local_id,start,end,type,latitude,longitude,province
 ,gyeongnam_12,2/22/20,2/22/20,health,35.2211536,128.6866212,Gyeongsangnam-do
 ,gyeongnam_12,2/22/20,2/22/20,,,,
 ,gyeongnam_12,2/22/20,2/22/20,house,,,
-,gyeongnam_12,2/23/20,2/23/20,health,35.2279556,128.6855953,의창구 창원시 Gyeongsangnam-do
+,gyeongnam_12,2/23/20,2/23/20,health,35.2279556,128.6855953,Gyeongsangnam-do
 ,gyeongnam_12,2/23/20,2/23/20,house,,,
 ,gyeongnam_12,2/16/20,2/16/20,health,35.1987691,128.7081267,Gyeongsangnam-do
 ,gyeongnam_13,2/21/20,2/21/20,church,35.798264,128.6218192,Daegu
@@ -2422,11 +2422,11 @@ global_id,local_id,start,end,type,latitude,longitude,province
 ,gyeongnam_13,2/23/20,2/23/20,health,38.3772967,128.4721882,Gangwon-do
 ,gyeongnam_13,2/23/20,2/23/20,house,,,
 ,gyeongnam_13,2/26/20,2/26/20,health,35.1762336,128.0938266,Gyeongsangnam-do
-,gyeongnam_13,2/9/20,2/9/20,health,35.1988193,128.566493,마산합포구 창원시 Gyeongsangnam-do
+,gyeongnam_13,2/9/20,2/9/20,health,35.1988193,128.566493,Gyeongsangnam-do
 ,gyeongnam_14,2/10/20,2/10/20,church,35.798264,128.6218192,Daegu
 ,gyeongnam_14,2/22/20,2/22/20,house,,,
 ,gyeongnam_14,2/23/20,2/23/20,health,35.1824015,128.5629166,Gyeongsangnam-do
-,gyeongnam_14,2/17/20,2/17/20,health,35.1988193,128.566493,마산합포구 창원시 Gyeongsangnam-do
+,gyeongnam_14,2/17/20,2/17/20,health,35.1988193,128.566493,Gyeongsangnam-do
 ,gyeongnam_15,2/18/20,2/18/20,house,,,
 ,gyeongnam_15,2/18/20,2/18/20,transit_station,35.238479,128.916689,Gimhae
 ,gyeongnam_15,2/18/20,2/18/20,transit_station,35.21322,128.960923,Busan
@@ -2492,7 +2492,7 @@ global_id,local_id,start,end,type,latitude,longitude,province
 ,gyeongnam_16,2/22/20,2/22/20,house,,,
 ,gyeongnam_16,2/23/20,2/23/20,house,,,
 ,gyeongnam_16,2/23/20,2/23/20,,,,
-,gyeongnam_16,2/16/20,2/16/20,health,35.1988193,128.566493,마산합포구 창원시 Gyeongsangnam-do
+,gyeongnam_16,2/16/20,2/16/20,health,35.1988193,128.566493,Gyeongsangnam-do
 ,gyeongnam_17,2/21/20,2/21/20,church,35.798264,128.6218192,Daegu
 ,gyeongnam_17,2/22/20,2/22/20,convenience_store,35.3312101,129.0112413,Gyeongsangnam-do
 ,gyeongnam_17,2/22/20,2/22/20,home_goods_store,35.3282734,129.0148632,Gyeongsangnam-do
@@ -2510,13 +2510,13 @@ global_id,local_id,start,end,type,latitude,longitude,province
 ,gyeongnam_17,2/23/20,2/23/20,house,,,
 ,gyeongnam_17,2/16/20,2/16/20,health,35.3278882,129.0062346,Gyeongsangnam-do
 ,gyeongnam_18,2/24/20,2/24/20,church,35.798264,128.6218192,Daegu
-,gyeongnam_18,2/16/20,2/16/20,health,35.1988193,128.566493,마산합포구 창원시 Gyeongsangnam-do
+,gyeongnam_18,2/16/20,2/16/20,health,35.1988193,128.566493,Gyeongsangnam-do
 ,gyeongnam_19,2/24/20,2/24/20,church,35.798264,128.6218192,Daegu
-,gyeongnam_19,2/16/20,2/16/20,health,35.1988193,128.566493,마산합포구 창원시 Gyeongsangnam-do
+,gyeongnam_19,2/16/20,2/16/20,health,35.1988193,128.566493,Gyeongsangnam-do
 ,gyeongnam_20,2/24/20,2/24/20,church,35.798264,128.6218192,Daegu
-,gyeongnam_20,2/24/20,2/24/20,health,35.1988193,128.566493,마산합포구 창원시 Gyeongsangnam-do
+,gyeongnam_20,2/24/20,2/24/20,health,35.1988193,128.566493,Gyeongsangnam-do
 ,gyeongnam_21,2/24/20,2/24/20,administrative_area_level_1,35.4606,128.2132,Gyeongsangnam-do
-,gyeongnam_21,2/22/20,2/22/20,health,35.1988193,128.566493,마산합포구 창원시 Gyeongsangnam-do
+,gyeongnam_21,2/22/20,2/22/20,health,35.1988193,128.566493,Gyeongsangnam-do
 ,gyeongnam_22,2/23/20,2/23/20,house,,,
 ,gyeongnam_22,2/23/20,2/23/20,,,,
 ,gyeongnam_22,2/23/20,2/23/20,house,,,
@@ -2525,7 +2525,7 @@ global_id,local_id,start,end,type,latitude,longitude,province
 ,gyeongnam_22,2/24/20,2/24/20,house,,,
 ,gyeongnam_22,2/15/20,2/15/20,house,,,
 ,gyeongnam_22,2/15/20,2/15/20,,,,
-,gyeongnam_22,2/15/20,2/15/20,health,35.1988193,128.566493,마산합포구 창원시 Gyeongsangnam-do
+,gyeongnam_22,2/15/20,2/15/20,health,35.1988193,128.566493,Gyeongsangnam-do
 ,gyeongnam_23,2/17/20,2/17/20,locality,35.8714354,128.601445,Daegu
 ,gyeongnam_23,2/17/20,2/17/20,,,,
 ,gyeongnam_23,2/19/20,2/19/20,house,,,
@@ -2551,7 +2551,7 @@ global_id,local_id,start,end,type,latitude,longitude,province
 ,gyeongnam_23,2/22/20,2/22/20,,,,
 ,gyeongnam_23,2/23/20,2/23/20,house,,,
 ,gyeongnam_23,2/24/20,2/24/20,house,,,
-,gyeongnam_23,2/24/20,2/24/20,health,35.2279556,128.6855953,의창구 창원시 Gyeongsangnam-do
+,gyeongnam_23,2/24/20,2/24/20,health,35.2279556,128.6855953,Gyeongsangnam-do
 ,gyeongnam_23,2/24/20,2/24/20,house,,,
 ,gyeongnam_23,2/24/20,2/24/20,health,35.2187449,128.6724378,Gyeongsangnam-do
 ,gyeongnam_23,2/24/20,2/24/20,house,,,
@@ -2566,9 +2566,9 @@ global_id,local_id,start,end,type,latitude,longitude,province
 ,gyeongnam_24,2/20/20,2/20/20,health,35.3278882,129.0062346,Gyeongsangnam-do
 ,gyeongnam_25,2/20/20,2/20/20,cafe,35.2201356,128.6981113,Gyeongsangnam-do
 ,gyeongnam_25,2/21/20,2/21/20,food,35.2217236,128.6842051,Gyeongsangnam-do
-,gyeongnam_25,2/21/20,2/21/20,cafe,35.239766,128.652582,의창구 창원시 Gyeongsangnam-do
+,gyeongnam_25,2/21/20,2/21/20,cafe,35.239766,128.652582,Gyeongsangnam-do
 ,gyeongnam_25,2/21/20,2/21/20,,,,
-,gyeongnam_25,2/21/20,2/21/20,food,35.2231966,128.6805781,창원시 Gyeongsangnam-do
+,gyeongnam_25,2/21/20,2/21/20,food,35.2231966,128.6805781,Gyeongsangnam-do
 ,gyeongnam_25,2/22/20,2/22/20,,,,
 ,gyeongnam_25,2/22/20,2/22/20,house,,,
 ,gyeongnam_25,2/23/20,2/23/20,house,,,
@@ -2589,11 +2589,11 @@ global_id,local_id,start,end,type,latitude,longitude,province
 ,gyeongnam_26,2/21/20,2/21/20,,,,
 ,gyeongnam_26,2/21/20,2/21/20,,,,
 ,gyeongnam_26,2/23/20,2/23/20,house,,,
-,gyeongnam_26,2/23/20,2/23/20,health,35.2279556,128.6855953,의창구 창원시 Gyeongsangnam-do
-,gyeongnam_26,2/24/20,2/24/20,health,35.223792,128.685927,성산구 창원시 Gyeongsangnam-do
+,gyeongnam_26,2/23/20,2/23/20,health,35.2279556,128.6855953,Gyeongsangnam-do
+,gyeongnam_26,2/24/20,2/24/20,health,35.223792,128.685927,Gyeongsangnam-do
 ,gyeongnam_26,2/24/20,2/24/20,,,,
 ,gyeongnam_26,2/25/20,2/25/20,house,,,
-,gyeongnam_26,2/21/20,2/21/20,health,35.1988193,128.566493,마산합포구 창원시 Gyeongsangnam-do
+,gyeongnam_26,2/21/20,2/21/20,health,35.1988193,128.566493,Gyeongsangnam-do
 ,gyeongnam_39,2/22/20,2/22/20,locality,35.9732915,128.9385493,Gyeongsangbuk-do
 ,gyeongnam_39,2/24/20,2/24/20,house,,,
 ,gyeongnam_39,2/26/20,2/26/20,health,35.2322843,128.8708872,Gyeongsangnam-do
@@ -2762,8 +2762,8 @@ global_id,local_id,start,end,type,latitude,longitude,province
 7434,,3/8/20,3/8/20,,,,
 7434,,3/8/20,3/8/20,house,,,
 7434,,3/9/20,3/9/20,house,,,
-7434,,3/9/20,3/9/20,health,37.500076,126.8893241,서울특별시 Guro-gu
-7434,,3/9/20,3/9/20,health,37.500076,126.8893241,서울특별시 Guro-gu
+7434,,3/9/20,3/9/20,health,37.500076,126.8893241,Seoul
+7434,,3/9/20,3/9/20,health,37.500076,126.8893241,Seoul
 7434,,,,health,37.4785259,126.6685039,Incheon
 7471,,3/6/20,3/6/20,transit_station,37.553525,126.744978,Incheon
 7471,,3/6/20,3/6/20,train_station,37.4903861,126.7236421,Incheon
@@ -2801,8 +2801,8 @@ global_id,local_id,start,end,type,latitude,longitude,province
 7486,,3/8/20,3/8/20,house,,,
 7486,,3/9/20,3/9/20,house,,,
 7486,,3/9/20,3/9/20,political,37.4863961,126.678725,Incheon
-7486,,3/9/20,3/9/20,health,37.500076,126.8893241,서울특별시 Guro-gu
-7486,,3/9/20,3/9/20,health,37.500076,126.8893241,서울특별시 Guro-gu
+7486,,3/9/20,3/9/20,health,37.500076,126.8893241,Seoul
+7486,,3/9/20,3/9/20,health,37.500076,126.8893241,Seoul
 7486,,3/9/20,3/9/20,,,,
 7486,,3/9/20,3/9/20,health,37.4785259,126.6685039,Incheon
 7507,,3/7/20,3/7/20,food,37.4579865,126.6412277,Incheon
@@ -3148,7 +3148,7 @@ global_id,local_id,start,end,type,latitude,longitude,province
 30,,2/15/20,2/15/20,health,37.5745067,127.0159378,Seoul
 30,,2/16/20,2/16/20,health,37.5870127,127.0268836,Seoul
 30,,2/16/20,2/16/20,health,37.5870127,127.0268836,Seoul
-40,,2/10/20,2/10/20,food,37.5397379,127.0531007,서울특별시 성동구 Seongsu 2(i)-ga 1(il)-dong
+40,,2/10/20,2/10/20,food,37.5397379,127.0531007,Seoul
 40,,2/14/20,2/14/20,house,,,
 40,,2/16/20,2/16/20,shopping_mall,37.5567165,127.0403003,Seoul
 40,,2/16/20,2/16/20,funeral_home,37.5892827,127.0645548,Seoul
@@ -3294,7 +3294,7 @@ global_id,local_id,start,end,type,latitude,longitude,province
 887,,2/21/20,2/21/20,,,,
 887,,2/22/20,2/22/20,house,,,
 887,,2/22/20,2/22/20,doctor,37.5115503,127.0789858,Seoul
-887,,2/22/20,2/22/20,cafe,37.5114662,127.0811206,181 Jamsil-dong
+887,,2/22/20,2/22/20,cafe,37.5114662,127.0811206,Seoul
 887,,2/22/20,2/22/20,food,37.5069289,127.0898316,Seoul
 887,,2/22/20,2/22/20,political,37.5061273,127.0842945,Seoul
 887,,2/23/20,2/23/20,house,,,
@@ -3364,7 +3364,7 @@ global_id,local_id,start,end,type,latitude,longitude,province
 1246,,2/18/20,2/18/20,political,37.5502209,127.1500409,Seoul
 1246,,2/19/20,2/19/20,house,,,
 1246,,2/21/20,2/21/20,book_store,37.3927081,127.1119936,Gyeonggi-do
-1246,,2/24/20,2/24/20,cafe,37.5539649,127.1559881,47-7 Myeongil-dong
+1246,,2/24/20,2/24/20,cafe,37.5539649,127.1559881,Seoul
 1246,,2/25/20,2/25/20,health,37.5292365,127.1255395,Seoul
 1246,,2/25/20,2/25/20,health,37.5069754,126.9605231,Seoul
 1247,,2/18/20,2/18/20,,,,
@@ -3410,7 +3410,7 @@ global_id,local_id,start,end,type,latitude,longitude,province
 1370,,2/19/20,2/19/20,,,,
 1370,,2/22/20,2/22/20,,,,
 1370,,2/22/20,2/22/20,political,37.5439937,127.1256452,Seoul
-1370,,2/22/20,2/22/20,cafe,37.5114662,127.0811206,181 Jamsil-dong
+1370,,2/22/20,2/22/20,cafe,37.5114662,127.0811206,Seoul
 1370,,2/22/20,2/22/20,cafe,37.5107568,127.0854914,Seoul
 1370,,2/22/20,2/22/20,house,,,
 1370,,2/22/20,2/22/20,health,37.4963176,127.1234353,Seoul
@@ -3418,7 +3418,7 @@ global_id,local_id,start,end,type,latitude,longitude,province
 1370,,2/23/20,2/23/20,house,,,
 1370,,2/24/20,2/24/20,cafe,37.4943071,127.121397,Garakbon-dong
 1370,,2/24/20,2/24/20,health,37.4963176,127.1234353,Seoul
-1370,,2/24/20,2/24/20,food,37.4947645,127.1184457,106 호
+1370,,2/24/20,2/24/20,food,37.4947645,127.1184457,
 1370,,2/25/20,2/25/20,cafe,37.4943071,127.121397,Garakbon-dong
 1370,,2/25/20,2/25/20,house,,,
 1370,,2/25/20,2/25/20,health,37.4933373,126.9246093,Seoul
@@ -3863,7 +3863,7 @@ global_id,local_id,start,end,type,latitude,longitude,province
 5661,,3/4/20,3/4/20,political,37.6065602,127.0926519,Seoul
 5661,,3/4/20,3/4/20,health,37.6127725,127.0981666,Seoul
 5666,,2/27/20,2/27/20,political,37.5135304,127.0315341,Seoul
-5666,,2/27/20,2/27/20,food,37.5331576,127.0049459,번지
+5666,,2/27/20,2/27/20,food,37.5331576,127.0049459,
 5666,,2/28/20,2/28/20,health,37.5339355,127.0043336,Seoul
 5666,,2/29/20,2/29/20,health,37.5339355,127.0043336,Seoul
 5666,,2/29/20,2/29/20,health,37.5339355,127.0043336,Seoul
