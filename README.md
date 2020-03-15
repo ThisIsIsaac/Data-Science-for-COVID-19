@@ -23,6 +23,7 @@
 1. 22 major epidemics 
 1. 16 vaccines
 1. 7 chronic diseases
+1. 5 major cancers
 1. Annual health screening results
 1. Medical facilities
 1. Population
