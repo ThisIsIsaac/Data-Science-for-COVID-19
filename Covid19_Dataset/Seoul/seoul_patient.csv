@@ -1,0 +1,271 @@
+local_id,global_id,country,sex,birth_year,infection_reason,infected_by,travel_history,confirmed_date,province,city
+1,2,Korea,male,1964,Overseas travel,,Singapore,1/24/20,Seoul,Guro-gu
+2,5,Korea,male,1987,Overseas travel,,Singapore,1/30/20,Seoul,Seongbuk-gu
+3,6,Korea,male,1964,contact with patient,3,,1/30/20,Seoul,Jongno-gu
+4,7,Korea,male,1991,Overseas travel,,Singapore,1/30/20,Seoul,Yangcheon-gu
+5,9,Korea,female,1992,contact with patient,5,,1/31/20,Seoul,Gangbuk-gu
+6,10,Korea,female,1966,contact with patient,6,,1/31/20,Seoul,Jongno-gu
+7,11,Korea,male,1995,contact with patient,6,,1/31/20,Seoul,Jongno-gu
+8,13,Korea,male,1992,Overseas travel,,China (Wuhan),2/2/20,Seoul,Inchun-si
+9,19,Korea,male,1983,Overseas travel,,Residence in Wuhan,2/5/20,Seoul,Gangdong-gu
+10,21,Korea,female,1960,contact with patient,6,,2/5/20,Seoul,Gangbuk-gu
+11,23,China,female,1962,Overseas travel,,Singapore,2/6/20,Seoul,Mapo-gu
+12,24,Korea,male,1992,Overseas travel,,China (Wuhan),2/7/20,Seoul,Asan-si
+13,29,Korea,male,1938,contact with patient,83,,2/16/20,Seoul,Jongno-gu
+14,30,Korea,female,1952,contact with patient,29,,2/16/20,Seoul,Jongno-gu
+15,40,Korea,male,1943,Seongdong-gu residental complex management office,,,2/19/20,Seoul,Gwangjin-gu
+16,56,Korea,male,1945,contact with patient,30,,2/19/20,Seoul,Jongno-gu
+17,83,Korea,male,1944,contact with patient (suspect),6,,2/20/20,Seoul,Jongno-gu
+18,111,Korea,male,2000,living in Daegu,,,2/20/20,Seoul,대구
+19,112,Korea,female,1941,contact with patient,136,,2/20/20,Seoul,Jongno-gu
+20,121,Korea,female,1946,Seongdong-gu residental complex management office,,,2/20/20,Seoul,Gwangjin-gu
+21,136,Korea,male,1936,contact with patient,56,,2/20/20,Seoul,Jongno-gu
+22,161,Korea,male,1985,Eunpyeong-gu St. Mary's Hospital,,,2/21/20,Seoul,Mapo-gu
+23,188,Korea,male,1961,Shincheonji Church of Jesus (suspect),,,2/21/20,Seoul,Gangnam-gu
+24,348,Korea,male,1980,contact with patient from different provice,,,2/22/20,Seoul,Geumcheon-gu
+25,365,Korea,male,1958,Eunpyeong-gu St. Mary's Hospital,,,2/22/20,Seoul,Jung-gu
+26,420,Korea,male,1986,Daegu visit,,,2/22/20,Seoul,Gangnam-gu
+27,593,Korea,male,1968,Overseas travel,,Vietnam,2/23/20,Seoul,Guro-gu
+28,627,Korea,female,1950,Eunpyeong-gu St. Mary's Hospital,,,2/23/20,Seoul,Jongno-gu
+29,754,Korea,male,1945,Eunpyeong-gu St. Mary's Hospital,,,2/26/20,Seoul,Jongno-gu
+30,755,China,male,1954,Eunpyeong-gu St. Mary's Hospital,,,2/23/20,Seoul,Jung-gu
+31,780,Korea,male,1965,Daegu visit,,,2/22/20,Seoul,Gangdong-gu
+32,787,Korea,male,1962,contact with patient from different provice,,,2/23/20,Seoul,Gangnam-gu
+33,794,Korea,female,1970,contact with patient (suspect),780,,2/24/20,Seoul,Gangdong-gu
+34,797,Korea,male,2000,contact with patient (suspect),780,,2/24/20,Seoul,Gangdong-gu
+35,847,Korea,male,1984,Under investigation,,,2/25/20,Seoul,Gimpo-si
+36,870,Korea,female,1963,Eunpyeong-gu St. Mary's Hospital,,,2/24/20,Seoul,Seodaemun-gu
+37,887,Korea,female,1976,contact with patient (suspect),780,,2/24/20,Seoul,Gangdong-gu
+38,935,Korea,female,1960,Under investigation,,,2/25/20,Seoul,Seocho-gu
+39,907,Korea,male,1953,Under investigation,,,2/25/20,Seoul,Pyungtaek-si
+40,924,China,female,1947,Overseas travel,,China (Qingdao),2/25/20,Seoul,Yeongdeungpo-gu
+41,938,Korea,male,1968,Daegu visit,,,2/25/20,Seoul,Jung-gu
+42,996,Korea,male,1977,Under investigation,,,2/25/20,Seoul,Eunpyeong-gu
+43,1022,Korea,female,1995,Overseas travel,,,2/25/20,Seoul,Gangdong-gu
+44,1027,Korea,male,1958,contact with patient from Daegu,,,2/25/20,Seoul,Gwanak-gu
+45,1118,Korea,male,1979,contact with patient,794,,2/25/20,Seoul,Gangdong-gu
+46,1246,Korea,female,1999,Myungsung church,,,2/25/20,Seoul,경북
+47,1247,Korea,male,1993,Shincheonji Daegu Church of Jesus,,,2/26/20,Seoul,Songpa-gu
+48,1253,Korea,female,1995,Seoul regenerative hospital,,,2/25/20,Seoul,Seodaemun-gu
+49,1254,Korea,male,1956,Eunpyeong-gu St. Mary's Hospital,,,2/25/20,Seoul,Seodaemun-gu
+50,1295,Korea,male,1994,Daegu visit,,,2/26/20,Seoul,Seocho-gu
+51,1370,Korea,female,1992,National Police Hospital,,,2/25/20,Seoul,Gangdong-gu
+52,1378,Korea,male,1984,Overseas travel,,Thailand,2/25/20,Seoul,Gangdong-gu
+53,1531,Korea,female,1973,Eunpyeong-gu St. Mary's Hospital,,,2/26/20,Seoul,Seodaemun-gu
+54,1532,Korea,female,1937,Eunpyeong-gu St. Mary's Hospital,,,2/26/20,Seoul,Seodaemun-gu
+55,1567,Korea,female,1993,Eunpyeong-gu St. Mary's Hospital,,,2/26/20,Seoul,Gangseo-gu
+56,1611,Korea,male,1962,Under investigation,,,2/25/20,Seoul,Goyang-si
+57,1675,Korea,female,1946,Eunpyeong-gu St. Mary's Hospital,,,2/25/20,Seoul,Goyang-si
+58,1710,Korea,female,1990,Daegu visit,,,2/26/20,Seoul,Songpa-gu
+59,1767,Korea,female,1954,Eunpyeong-gu St. Mary's Hospital,,,2/26/20,Seoul,Seodaemun-gu
+60,1768,Korea,male,1935,Eunpyeong-gu St. Mary's Hospital,,,2/26/20,Seoul,Seodaemun-gu
+61,1788,Korea,male,1955,Eunpyeong-gu St. Mary's Hospital,,,2/27/20,Seoul,Mapo-gu
+62,1907,Korea,male,1973,shopping mall,,,2/27/20,Seoul,Mapo-gu
+63,2466,Korea,male,1985,a real estate agency,,,2/28/20,Seoul,Seocho-gu
+64,2468,Korea,female,1985,contact with patient (suspect),1247,,2/28/20,Seoul,Songpa-gu
+65,2469,Korea,male,1987,contact with patient,2621,,2/28/20,Seoul,Songpa-gu
+66,2470,Korea,male,1986,Under investigation,,,2/28/20,Seoul,Songpa-gu
+67,2471,Korea,female,1999,contact with patient (suspect),794,,2/27/20,Seoul,Gangdong-gu
+68,2621,Korea,female,1992,Under investigation,,,2/27/20,Seoul,Songpa-gu
+69,2666,Korea,male,1974,Under investigation,,,2/25/20,Seoul,Eunpyeong-gu
+70,2740,Korea,female,1975,Seongdong-gu residental complex management office,,,2/27/20,Seoul,Eunpyeong-gu
+71,2818,Korea,female,1990,Under investigation,,,2/26/20,Seoul,Eunpyeong-gu
+72,2833,Korea,female,1979,Myungsung church,,,2/27/20,Seoul,Jung-gu
+73,2840,Korea,male,1975,construction site in Yeouido,,,2/27/20,Seoul,Inchun-si
+74,2858,Korea,male,1966,Under investigation,,,2/27/20,Seoul,Gangnam-gu
+75,3007,Korea,male,1982,Overseas travel,,"Italy, France",2/27/20,Seoul,Dongdaemun-gu
+76,3054,Korea,male,1977,contact with patient from different provice,,,2/27/20,Seoul,Jungnang-gu
+77,3046,Korea,female,1991,Under investigation,,,2/28/20,Seoul,Gwangjin-gu
+78,3261,Korea,male,1974,Seongdong-gu residental complex management office,,,2/28/20,Seoul,Eunpyeong-gu
+79,3262,Korea,female,2003,Seongdong-gu residental complex management office,,,2/28/20,Seoul,Eunpyeong-gu
+80,3263,Korea,female,1996,contact with patient from different provice,,,2/29/20,Seoul,Eunpyeong-gu
+81,3491,Korea,female,1996,contact with patient from different provice,,,2/29/20,Seoul,Seocho-gu
+82,3517,Korea,male,1951,Overseas travel,,Japan,2/29/20,Seoul,Dongjak-gu
+83,3679,Korea,female,1993,contact with patient from Daegu,,,2/27/20,Seoul,Gangdong-gu
+84,3680,Korea,female,1997,contact with patient from Daegu,,,2/27/20,Seoul,Gangdong-gu
+85,3681,Korea,female,1988,Overseas travel,,Italy,2/29/20,Seoul,Songpa-gu
+86,3616,Korea,female,1985,a real estate agency,,,3/1/20,Seoul,Songpa-gu
+87,3703,Korea,male,2005,Seongdong-gu residental complex management office,,,2/28/20,Seoul,Eunpyeong-gu
+88,3790,Korea,male,1975,Seongdong-gu residental complex management office,,,3/1/20,Seoul,Dongdaemun-gu
+89,3793,Korea,male,1970,Seongdong-gu residental complex management office,,,3/1/20,Seoul,Gangbuk-gu
+90,3815,Korea,male,1969,Seongdong-gu residental complex management office,,,3/1/20,Seoul,Dongjak-gu
+91,4174,Korea,male,1972,construction site in Yeouido,,,2/29/20,Seoul,Dongjak-gu
+92,4224,Korea,male,2000,Seongdong-gu residental complex management office,,,3/2/20,Seoul,Dongjak-gu
+93,4517,Korea,female,1969,a real estate agency,,,3/2/20,Seoul,Songpa-gu
+94,4558,Korea,female,1969,Seongdong-gu residental complex management office,,,3/2/20,Seoul,Gangbuk-gu
+95,4634,Korea,female,1999,Seongdong-gu residental complex management office,,,3/2/20,Seoul,Gangbuk-gu
+96,4645,Korea,male,1982,Under investigation,,,3/2/20,Seoul,Nowon-gu
+97,4709,Korea,male,1985,contact with patient from different provice,,,3/1/20,Seoul,Gangseo-gu
+98,4743,Korea,male,1966,Under investigation,,,3/2/20,Seoul,Gangnam-gu
+99,5377,China,female,1996,Daegu visit,,,3/4/20,Seoul,Jungnang-gu
+100,5592,Korea,male,1985,Dongdaemun-gu church & arcade,,,3/4/20,Seoul,Jungnang-gu
+101,5661,Korea,female,2005,contact with patient from different provice,,,3/4/20,Seoul,Seongbuk-gu
+102,5666,Korea,female,1971,Seongdong-gu residental complex management office,,,3/4/20,Seoul,Yongsan-gu
+103,5695,Korea,male,1997,Overseas travel,,"Italy, Germany, Hong Kong",3/4/20,Seoul,Jungnang-gu
+104,6070,Korea,female,2003,Under investigation,,,3/4/20,Seoul,Dobong-gu
+105,6131,Korea,male,1981,Under investigation,,,3/5/20,Seoul,Songpa-gu
+106,6384,Korea,male,1986,contact with patient from different provice,,,3/6/20,Seoul,Guro-gu
+107,6589,Korea,male,1985,contact with patient from different provice,,,3/6/20,Seoul,Goyang-si
+108,6727,Korea,male,1979,contact with patient from different provice,,,3/6/20,Seoul,Yongin-si
+109,6773,Korea,male,1929,contact with patient from different provice,,,3/7/20,Seoul,Goyang-si
+110,6781,Korea,male,1964,contact with patient from different provice,,,3/7/20,Seoul,Songpa-gu
+111,6832,Korea,male,1984,contact with patient from different provice,,,3/4/20,Seoul,Dobong-gu
+112,6845,Korea,female,2013,contact with patient from different provice,,,3/7/20,Seoul,Seocho-gu
+113,6883,Korea,female,1956,contact with patient,6832,,3/6/20,Seoul,Dobong-gu
+114,6921,Korea,female,1996,contact with patient,6937,,3/7/20,Seoul,Gangseo-gu
+115,6937,Korea,female,1969,contact with patient from different provice,,,3/6/20,Seoul,Gangseo-gu
+116,6959,Korea,male,1987,Overseas travel,,"Spain, France",3/7/20,Seoul,Seodaemun-gu
+117,6999,Korea,male,1955,contact with patient,935,,3/7/20,Seoul,Gangnam-gu
+118,7011,Korea,male,1966,contact with patient,6921,,3/7/20,Seoul,Gangseo-gu
+119,7027,Korea,male,1955,contact with patient,6832,,3/6/20,Seoul,Dobong-gu
+120,7103,Korea,male,1981,Dongdaemun-gu caregiver,,,3/6/20,Seoul,Gangbuk-gu
+121,7219,Korea,female,2020,Dongdaemun-gu caregiver,,,3/8/20,Seoul,Jungnang-gu
+122,7234,Korea,female,1995,Dongdaemun-gu church & arcade,,,3/8/20,Seoul,Jungnang-gu
+123,7243,Korea,female,1941,living in Daegu,,,3/8/20,Seoul,Daegu-si
+124,7247,Korea,male,1993,Dongdaemun-gu church & arcade,,,3/8/20,Seoul,Jungnang-gu
+125,7265,Korea,female,1964,Guro-gu call center,,,3/8/20,Seoul,Eunpyeong-gu
+126,7275,Korea,female,1982,Dongdaemun-gu caregiver,,,3/8/20,Seoul,Jungnang-gu
+127,7280,Korea,male,1969,contact with patient,6727,,3/8/20,Seoul,Songpa-gu
+128,7281,Korea,male,1951,Dongdaemun-gu caregiver,,,3/8/20,Seoul,Jungnang-gu
+129,7297,Korea,female,1952,Dongdaemun-gu caregiver,,,3/8/20,Seoul,Jungnang-gu
+130,7300,Korea,male,1993,Dongdaemun-gu church & arcade,,,3/8/20,Seoul,Jungnang-gu
+131,7401,Korea,female,1969,Guro-gu call center,,,3/9/20,Seoul,Seodaemun-gu
+132,7479,Korea,male,1963,contact with call center employee,,,3/9/20,Seoul,Seodaemun-gu
+133,7514,Korea,female,1977,Overseas travel,,Philippines,3/9/20,Seoul,Jung-gu
+134,7437,Korea,female,1991,Dongdaemun-gu church & arcade,,,3/9/20,Seoul,Gwanak-gu
+135,7513,Korea,male,1989,Under investigation,,,3/9/20,Seoul,Seodaemun-gu
+136,7461,Korea,female,1970,Guro-gu call center,,,3/9/20,Seoul,Jung-gu
+137,7463,Korea,female,1969,Guro-gu call center,,,3/9/20,Seoul,Yeongdeungpo-gu
+138,7683,Korea,male,1987,Under investigation,,,3/9/20,Seoul,Sungnam-si
+139,8050,Korea,male,1990,Guro-gu call center,,,3/9/20,Seoul,Gangseo-gu
+140,7500,Korea,female,1978,Under investigation,,,3/9/20,Seoul,Seodaemun-gu
+141,7580,Korea,female,1962,Guro-gu call center,,,3/9/20,Seoul,Eunpyeong-gu
+142,7726,Korea,female,1972,Guro-gu call center,,,3/9/20,Seoul,Geumcheon-gu
+143,8003,Korea,male,1977,Guro-gu call center,,,3/9/20,Seoul,Gangseo-gu
+144,7502,Korea,female,1971,Guro-gu call center,,,3/9/20,Seoul,Guro-gu
+145,7710,Korea,female,1975,Guro-gu call center,,,3/9/20,Seoul,Geumcheon-gu
+146,7636,Korea,female,1969,Guro-gu call center,,,3/9/20,Seoul,Geumcheon-gu
+147,7544,Korea,male,1998,contact with call center employee,,,3/9/20,Seoul,Geumcheon-gu
+148,7480,Korea,male,1965,contact with call center employee,,,3/9/20,Seoul,Geumcheon-gu
+149,7752,Korea,female,1967,Guro-gu call center,,,3/9/20,Seoul,Boochun-si
+150,7469,Korea,female,1960,Guro-gu call center,,,3/9/20,Seoul,Guro-gu
+151,7719,Korea,female,1971,Guro-gu call center,,,3/9/20,Seoul,Kwangmyung-si
+152,7668,Korea,female,1974,Guro-gu call center,,,3/9/20,Seoul,Kwangmyung-si
+153,7740,Korea,female,1970,Guro-gu call center,,,3/9/20,Seoul,Geumcheon-gu
+154,7700,Korea,female,1969,Guro-gu call center,,,3/9/20,Seoul,Geumcheon-gu
+155,7444,Korea,female,1966,Guro-gu call center,,,3/9/20,Seoul,Guro-gu
+156,7597,Korea,female,1983,Guro-gu call center,,,3/9/20,Seoul,Geumcheon-gu
+157,7525,Korea,female,1980,Guro-gu call center,,,3/10/20,Seoul,Gwanak-gu
+158,7721,Korea,female,1972,Guro-gu call center,,,3/10/20,Seoul,Gwanak-gu
+159,7666,Korea,female,1976,Guro-gu call center,,,3/10/20,Seoul,Seocho-gu
+160,7644,Korea,female,1960,Guro-gu call center,,,3/10/20,Seoul,Seocho-gu
+161,7603,Korea,female,1967,Guro-gu call center,,,3/10/20,Seoul,Seocho-gu
+162,7727,Korea,female,1966,Guro-gu call center,,,3/10/20,Seoul,Guro-gu
+163,7723,Korea,female,1972,Guro-gu call center,,,3/10/20,Seoul,Guro-gu
+164,7573,Korea,female,1959,contact with patient (suspect),7500,,3/10/20,Seoul,Seodaemun-gu
+165,7624,Korea,female,1971,Guro-gu call center,,,3/10/20,Seoul,Gangdong-gu
+166,7685,Korea,female,1979,Guro-gu call center,,,3/10/20,Seoul,Dongjak-gu
+167,7622,Korea,female,1980,Guro-gu call center,,,3/10/20,Seoul,Dongjak-gu
+168,7653,Korea,female,1977,Guro-gu call center,,,3/10/20,Seoul,Dongjak-gu
+169,7712,Korea,female,1971,Guro-gu call center,,,3/10/20,Seoul,Gangseo-gu
+170,7734,Korea,female,1968,Guro-gu call center,,,3/10/20,Seoul,Seocho-gu
+171,7638,Korea,female,1972,Guro-gu call center,,,3/10/20,Seoul,Gangseo-gu
+172,7642,Korea,female,1965,Guro-gu call center,,,3/10/20,Seoul,Gangseo-gu
+173,7731,Korea,female,1963,Guro-gu call center,,,3/10/20,Seoul,Guro-gu
+174,7571,Korea,male,1993,Dongdaemun-gu church & arcade,,,3/10/20,Seoul,Jungnang-gu
+175,7695,Korea,female,1992,Guro-gu call center,,,3/10/20,Seoul,Guro-gu
+176,7564,Korea,female,1975,Guro-gu call center,,,3/10/20,Seoul,Dongjak-gu
+177,7523,Korea,male,1979,Guro-gu call center,,,3/10/20,Seoul,Geumcheon-gu
+178,7602,Korea,female,1995,Dongdaemun-gu church & arcade,,,3/10/20,Seoul,Jungnang-gu
+179,7584,Korea,female,1970,Guro-gu call center,,,3/10/20,Seoul,Geumcheon-gu
+180,7520,Korea,female,1972,Guro-gu call center,,,3/10/20,Seoul,Geumcheon-gu
+181,7528,Korea,female,1982,Guro-gu call center,,,3/10/20,Seoul,Geumcheon-gu
+182,7611,Korea,female,1967,Guro-gu call center,,,3/10/20,Seoul,Gwanak-gu
+183,7840,Korea,female,1967,Guro-gu call center,,,3/10/20,Seoul,Yangcheon-gu
+184,7823,Korea,male,1982,Guro-gu call center,,,3/10/20,Seoul,Yangcheon-gu
+185,7742,Korea,female,1982,Guro-gu call center,,,3/10/20,Seoul,Yangcheon-gu
+186,7630,Korea,female,1970,Guro-gu call center,,,3/10/20,Seoul,Dongjak-gu
+187,7637,Korea,female,1968,Guro-gu call center,,,3/10/20,Seoul,Yeongdeungpo-gu
+188,7561,Korea,female,1994,contact with patient (suspect),7280,,3/10/20,Seoul,Jungnang-gu
+189,7536,Korea,male,1992,Dongdaemun-gu church & arcade,,,3/10/20,Seoul,Jungnang-gu
+190,7588,Korea,female,1968,Guro-gu call center,,,3/10/20,Seoul,Yangcheon-gu
+191,7647,Korea,female,1990,contact with patient (suspect),6959,,3/10/20,Seoul,Seodaemun-gu
+192,7800,Korea,female,1996,contact with call center employee,,,3/10/20,Seoul,Seocho-gu
+193,7826,Korea,male,1991,contact with call center employee,,,3/10/20,Seoul,Seocho-gu
+194,7787,Korea,male,1974,contact with call center employee,,,3/10/20,Seoul,Seocho-gu
+195,7795,Korea,female,1981,Guro-gu call center,,,3/10/20,Seoul,Seocho-gu
+196,7619,Korea,female,1954,contact with call center employee,,,3/10/20,Seoul,Gangseo-gu
+197,7524,Korea,male,1953,contact with call center employee,,,3/10/20,Seoul,Gangseo-gu
+198,7539,Korea,female,1968,contact with call center employee,,,3/10/20,Seoul,Gangseo-gu
+199,7725,Korea,female,1980,Guro-gu call center,,,3/10/20,Seoul,Gangseo-gu
+200,7555,Korea,female,1968,Guro-gu call center,,,3/10/20,Seoul,Geumcheon-gu
+201,7711,Korea,male,1989,contact with call center employee,,,3/10/20,Seoul,Eunpyeong-gu
+202,7567,Korea,male,1959,contact with call center employee,,,3/10/20,Seoul,Eunpyeong-gu
+203,7842,Korea,male,1999,contact with call center employee,,,3/11/20,Seoul,Guro-gu
+204,7851,Korea,male,1967,contact with call center employee,,,3/11/20,Seoul,Guro-gu
+205,7822,Korea,female,1994,contact with call center employee,,,3/11/20,Seoul,Guro-gu
+206,7818,China,female,2000,Under investigation,,,3/11/20,Seoul,Mapo-gu
+207,7757,Korea,female,1949,Under investigation,,,3/11/20,Seoul,Seodaemun-gu
+208,7857,Korea,male,1973,Guro-gu call center,,,3/11/20,Seoul,Seongbuk-gu
+209,7765,Korea,male,1941,contact with call center employee,,,3/11/20,Seoul,Geumcheon-gu
+210,7836,Korea,male,1965,Under investigation,,,3/11/20,Seoul,Seodaemun-gu
+211,7759,Korea,male,2000,Dongdaemun-gu church & arcade,,,3/11/20,Seoul,Jungnang-gu
+212,7794,Korea,female,1998,Dongdaemun-gu church & arcade,,,3/11/20,Seoul,Jungnang-gu
+213,7876,Korea,female,1994,contact with call center employee,,,3/11/20,Seoul,Yangcheon-gu
+214,7805,Korea,female,1969,Guro-gu call center,,,3/11/20,Seoul,Mapo-gu
+215,7856,Korea,female,1951,Under investigation,,,3/11/20,Seoul,Gangdong-gu
+216,8063,Korea,male,1987,Overseas travel,,"Germany, France",3/11/20,Seoul,Gangbuk-gu
+217,7967,Korea,male,1992,Dongdaemun-gu church & arcade,,,3/11/20,Seoul,Gangbuk-gu
+218,,Korea,male,1974,contact with call center employee,,,3/11/20,Seoul,Geumcheon-gu
+219,7871,Thailand,female,1984,contact with call center employee,,,3/11/20,Seoul,Seongbuk-gu
+220,,Korea,male,1969,Dongdaemun-gu church & arcade,,,3/11/20,Seoul,Jungnang-gu
+221,7893,Korea,male,2007,contact with patient (suspect),7573,,3/12/20,Seoul,Eunpyeong-gu
+222,7965,Korea,male,1964,Overseas travel,,Philippines,3/12/20,Seoul,Dobong-gu
+223,7975,Korea,female,1991,contact with call center employee,,,3/12/20,Seoul,Songpa-gu
+224,7874,Korea,female,2004,Dongdaemun-gu church & arcade,,,3/12/20,Seoul,Jungnang-gu
+225,7939,Korea,male,1998,Dongdaemun-gu church & arcade,,,3/12/20,Seoul,Gangbuk-gu
+226,7925,Korea,male,1991,contact with call center employee,,,3/12/20,Seoul,Yeongdeungpo-gu
+227,7914,Korea,male,1982,Under investigation,,,3/12/20,Seoul,Yeongdeungpo-gu
+228,7929,Korea,female,1958,contact with call center employee,,,3/12/20,Seoul,Gangdong-gu
+229,8057,Poland,male,1984,Overseas travel,,Poland,3/12/20,Seoul,Yongsan-gu
+230,7923,Korea,male,1992,Overseas travel,,"Spain, Czech Republic",3/12/20,Seoul,Seocho-gu
+231,8055,Korea,female,1963,Shincheonji Church of Jesus (suspect),,,3/12/20,Seoul,Gangnam-gu
+232,8074,Korea,male,1998,contact with patient,7923,,3/13/20,Seoul,Seocho-gu
+233,,Korea,female,1991,contact with patient,7923,,3/13/20,Seoul,Gangnam-gu
+234,8058,Korea,female,1994,Under investigation,,,3/13/20,Seoul,Gangnam-gu
+235,7980,Korea,male,1968,contact with patient from different provice,,,3/13/20,Seoul,Gwanak-gu
+236,8053,Korea,male,1991,Overseas travel,,"United Kingdom, France",3/13/20,Seoul,Eunpyeong-gu
+237,8044,France,female,1998,Overseas travel,,France,3/13/20,Seoul,Yangcheon-gu
+238,8049,Korea,female,1941,Dongdaemun-gu caregiver,,,3/13/20,Seoul,Jungnang-gu
+239,8059,Korea,male,1994,Dongdaemun-gu church & arcade,,,3/13/20,Seoul,Jungnang-gu
+240,7986,Korea,male,1966,Dongdaemun-gu church & arcade,,,3/13/20,Seoul,Jungnang-gu
+241,8158,Korea,female,1953,Dongdaemun-gu caregiver,,,3/14/20,Seoul,Seongbuk-gu
+242,8125,Korea,male,1995,contact with patient,8044,,3/14/20,Seoul,Yangcheon-gu
+243,8132,Korea,female,1972,contact with patient from different provice,,,3/14/20,Seoul,Songpa-gu
+244,8102,Korea,female,1959,Dongdaemun-gu caregiver,,,3/14/20,Seoul,Nowon-gu
+245,8140,Korea,male,1981,Guro-gu call center,,,3/14/20,Seoul,Dongjak-gu
+246,8138,Korea,male,1967,Under investigation,,,3/14/20,Seoul,Dongjak-gu
+247,8096,Korea,male,1969,Overseas travel,,,3/14/20,Seoul,Geumcheon-gu
+248,8153,Korea,female,1969,contact with call center employee,,,3/14/20,Seoul,Geumcheon-gu
+249,8209,Korea,female,1992,contact with patient from different provice,,,3/15/20,Seoul,Eunpyeong-gu
+250,8196,Korea,female,2001,contact with patient,8138,,3/15/20,Seoul,Dongjak-gu
+251,8183,Korea,male,2012,contact with call center employee,,,3/15/20,Seoul,Geumcheon-gu
+252,8217,Korea,male,1982,Under investigation,,,3/15/20,Seoul,Guro-gu
+253,8178,Korea,male,1967,contact with call center employee,,,3/15/20,Seoul,Geumcheon-gu
+254,8192,Korea,female,1939,contact with call center employee,,,3/15/20,Seoul,Seodaemun-gu
+255,8263,Korea,female,1972,Under investigation,,,3/16/20,Seoul,Mapo-gu
+256,8250,Korea,female,1996,contact with call center employee,,,3/16/20,Seoul,Seodaemun-gu
+257,8270,Korea,male,1996,contact with call center employee,,,3/16/20,Seoul,Geumcheon-gu
+258,8317,Korea,male,1993,Dongdaemun-gu church & arcade,,,3/16/20,Seoul,Jungnang-gu
+259,8270,Korea,male,1995,Dongdaemun-gu church & arcade,,,3/16/20,Seoul,Jungnang-gu
+260,8311,Korea,male,1999,Under investigation,,,3/16/20,Seoul,Mapo-gu
+261,8297,Korea,male,1978,Under investigation,,,3/16/20,Seoul,Seocho-gu
+262,8254,Korea,female,1980,Guro-gu call center,,,3/16/20,Seoul,Yongsan-gu
+263,8268,Korea,male,2001,contact with patient,8196,,3/16/20,Seoul,Geumcheon-gu
+264,8245,Korea,male,1978,contact with patient from different provice,,,3/16/20,Seoul,Guro-gu
+265,8408,Korea,male,1986,Under investigation,,,3/16/20,Seoul,Seocho-gu
+266,8271,Korea,male,1994,Overseas travel,,"Morocco, France, Austria",3/16/20,Seoul,Dongjak-gu
+267,,Korea,female,1967,Under investigation,,,3/16/20,Seoul,Gwanak-gu
+268,8390,Korea,male,2006,Dongdaemun-gu church & arcade,,,3/17/20,Seoul,Jungnang-gu
+269,8359,Korea,female,1999,Overseas travel,,United Kingdom,3/17/20,Seoul,Gangdong-gu
+270,8342,Korea,female,1997,Overseas travel,,United States,3/17/20,Seoul,Sungnam-si
