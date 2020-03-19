@@ -44,7 +44,7 @@ local_id,global_id,country,sex,birth_year,infection_reason,infected_by,travel_hi
 43,1022,Korea,female,1995,Overseas travel,,,2/25/20,Seoul,Gangdong-gu
 44,1027,Korea,male,1958,contact with patient from Daegu,,,2/25/20,Seoul,Gwanak-gu
 45,1118,Korea,male,1979,contact with patient,794,,2/25/20,Seoul,Gangdong-gu
-46,1246,Korea,female,1999,Myungsung church,,,2/25/20,Seoul,경북
+46,1246,Korea,female,1999,Myungsung church,,,2/25/20,Gyeongsangbuk-do,
 47,1247,Korea,male,1993,Shincheonji Daegu Church of Jesus,,,2/26/20,Seoul,Songpa-gu
 48,1253,Korea,female,1995,Seoul regenerative hospital,,,2/25/20,Seoul,Seodaemun-gu
 49,1254,Korea,male,1956,Eunpyeong-gu St. Mary's Hospital,,,2/25/20,Seoul,Seodaemun-gu
