@@ -3,11 +3,21 @@
 ![issueBadge](https://img.shields.io/github/issues/ThisIsIsaac/COVID-19_Korea_Dataset)   ![starBadge](https://img.shields.io/github/stars/ThisIsIsaac/COVID-19_Korea_Dataset)   ![repoSize](https://img.shields.io/github/repo-size/ThisIsIsaac/COVID-19_Korea_Dataset)  ![lastCommit](https://img.shields.io/github/last-commit/ThisIsIsaac/COVID-19_Korea_Dataset) 
 ---
 
-### COVID-19 Korea Dataset with patient routes and visualizer
+## COVID-19 Korea Dataset with patient routes and visualizer
 
 ![heatmap.gif](https://github.com/ThisIsIsaac/COVID-19_Korea_Dataset/blob/master/images/heatmap.gif)
 
 > We are currently in the process of officially partnering up with the Korean CDC to bring more accurate and up-to-date data. And the most powerful tool to expedite the process is the sign of support from developers like you. So if you liked our work, please leave a :star: and share this with others. Your support makes our work meaningful. Thanks. - Isaac
+
+---
+
+## Kaggle 
+
+<img src="https://github.com/ThisIsIsaac/COVID-19_Korea_Dataset/blob/update_README/images/kaggle.png">
+
+Also checkout our [Kaggle dataset](https://www.kaggle.com/kimjihoo/coronavirusdataset).
+
+---
 
 ## 1. COVID-19 Korea Dataset with Patient Routes
 
@@ -66,18 +76,25 @@
 
 ### Sponsors
 
-
+<img src="https://github.com/ThisIsIsaac/COVID-19_Korea_Dataset/blob/update_README/images/google.png" height="100" width="300">
 
 ### Working with
+<img src="https://github.com/ThisIsIsaac/COVID-19_Korea_Dataset/blob/update_README/images/skt.png" height="100" width="300">
+
+<img src="https://github.com/ThisIsIsaac/COVID-19_Korea_Dataset/blob/update_README/images/mindslab.png" height="150" width="200">
+
 
 ---
 
 ## DS4C (Data Science for COVID-19) Project
 
+1. To reprocess information provided by KCDC and local governments for easy data analysis
+2. To find meaningful patterns by applying various data mining or visualization techniques
+
 ### Project Manager
 
 - [Jihoo Kim](https://www.kaggle.com/kimjihoo)
-- [JoongKun Lee](https://github.com/ThisIsIsaac) (Team Lead)
+- [JoongKun Lee](https://github.com/ThisIsIsaac)
 
 ### Project Leader
 
@@ -89,14 +106,14 @@
 ### Project Engineer
 
 - [BoYoung Song](https://www.kaggle.com/bysong)
-- [DongHwan Jang](https://github.com/DongHwanJang) (data)
+- [DongHwan Jang](https://github.com/DongHwanJang)
 - [JuHwan Park](https://www.kaggle.com/parkjuhwan)
 - [KyeongWook Jang](https://www.kaggle.com/jeeudev)
 - [MinSeok Jung](https://www.kaggle.com/msjung)
-- [Mu Hwan Kim](https://github.com/minty99) (data)
+- [Mu Hwan Kim](https://github.com/minty99)
 - [SangWook Park](https://www.kaggle.com/kvmoke)
 - [TaeHyeong Park](https://www.kaggle.com/asdjfalksjdh)
-- [Won Hwang](https://github.com/mangocode96) (Visualizer)
+- [Won Hwang](https://github.com/mangocode96)
 - [WonCheol Lee](https://www.kaggle.com/leewoncheol)
 - [YouNa Jung](https://www.kaggle.com/younajung)
 
