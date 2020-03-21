@@ -66,10 +66,10 @@
 
 ### Sponsors
 
-<img src="https://github.com/ThisIsIsaac/COVID-19_Korea_Dataset/blob/update_README/images/Screen%20Shot%202020-03-21%20at%2017.43.13%20PM.png" height="24" width="48">
+<img src="https://github.com/ThisIsIsaac/COVID-19_Korea_Dataset/blob/update_README/images/Screen%20Shot%202020-03-21%20at%2017.43.13%20PM.png" height="100" width="400">
 
 ### Working with
-![skt_logo](https://github.com/ThisIsIsaac/COVID-19_Korea_Dataset/blob/update_README/images/1200px-SK_Telecom_Logo.svg.png)
+<img src="https://github.com/ThisIsIsaac/COVID-19_Korea_Dataset/blob/update_README/images/1200px-SK_Telecom_Logo.svg.png" height="100" width="400">
 ![mindslab_logo](https://github.com/ThisIsIsaac/COVID-19_Korea_Dataset/blob/update_README/images/download.png)
 
 ---
