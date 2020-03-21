@@ -3,23 +3,25 @@
 ![issueBadge](https://img.shields.io/github/issues/ThisIsIsaac/COVID-19_Korea_Dataset)   ![starBadge](https://img.shields.io/github/stars/ThisIsIsaac/COVID-19_Korea_Dataset)   ![repoSize](https://img.shields.io/github/repo-size/ThisIsIsaac/COVID-19_Korea_Dataset)  ![lastCommit](https://img.shields.io/github/last-commit/ThisIsIsaac/COVID-19_Korea_Dataset) 
 ---
 
-### COVID-19 Korea Dataset with patient routes and visualizer
+## COVID-19 Korea Dataset with patient routes and visualizer
 
 ![heatmap.gif](https://github.com/ThisIsIsaac/COVID-19_Korea_Dataset/blob/master/images/heatmap.gif)
 
 > We are currently in the process of officially partnering up with the Korean CDC to bring more accurate and up-to-date data. And the most powerful tool to expedite the process is the sign of support from developers like you. So if you liked our work, please leave a :star: and share this with others. Your support makes our work meaningful. Thanks. - Isaac
+
+### Kaggle 
+
+<img src="https://github.com/ThisIsIsaac/COVID-19_Korea_Dataset/blob/update_README/images/kaggle.png">
+
+Also checkout our [Kaggle dataset](https://www.kaggle.com/kimjihoo/coronavirusdataset).
+
+---
 
 ## 1. COVID-19 Korea Dataset with Patient Routes
 
 **Dataset components**:
 1. Patient routes (more coming!)
 2. Patient age / gender / diagnosed date (based on Jihoo's [dataset](https://github.com/jihoo-kim/Coronavirus-Dataset))
-
----
-
-### Kaggle 
-
-<img src="https://github.com/ThisIsIsaac/COVID-19_Korea_Dataset/blob/update_README/images/kaggle.png">
 
 ---
 
