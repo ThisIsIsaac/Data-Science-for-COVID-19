@@ -65,10 +65,10 @@
 ## Special Thanks to:
 
 ### Sponsors
-![google_logo](https://github.com/ThisIsIsaac/COVID-19_Korea_Dataset/blob/update_README/images/Screen%20Shot%202020-03-21%20at%2017.43.13%20PM.png)
+![google_logo](https://github.com/ThisIsIsaac/COVID-19_Korea_Dataset/blob/update_README/images/Screen%20Shot%202020-03-21%20at%2017.43.13%20PM.png= 300x100)
 
 ### Working with
-![skt_logo](https://github.com/ThisIsIsaac/COVID-19_Korea_Dataset/tree/update_README/images)
+![skt_logo](https://github.com/ThisIsIsaac/COVID-19_Korea_Dataset/blob/update_README/images/1200px-SK_Telecom_Logo.svg.png)
 ![mindslab_logo](https://github.com/ThisIsIsaac/COVID-19_Korea_Dataset/blob/update_README/images/download.png)
 
 ---
@@ -78,7 +78,7 @@
 ### Project Manager
 
 - [Jihoo Kim](https://www.kaggle.com/kimjihoo)
-- [JoongKun Lee](https://github.com/ThisIsIsaac) (Team Lead)
+- [JoongKun Lee](https://github.com/ThisIsIsaac)
 
 ### Project Leader
 
@@ -90,14 +90,14 @@
 ### Project Engineer
 
 - [BoYoung Song](https://www.kaggle.com/bysong)
-- [DongHwan Jang](https://github.com/DongHwanJang) (data)
+- [DongHwan Jang](https://github.com/DongHwanJang)
 - [JuHwan Park](https://www.kaggle.com/parkjuhwan)
 - [KyeongWook Jang](https://www.kaggle.com/jeeudev)
 - [MinSeok Jung](https://www.kaggle.com/msjung)
-- [Mu Hwan Kim](https://github.com/minty99) (data)
+- [Mu Hwan Kim](https://github.com/minty99)
 - [SangWook Park](https://www.kaggle.com/kvmoke)
 - [TaeHyeong Park](https://www.kaggle.com/asdjfalksjdh)
-- [Won Hwang](https://github.com/mangocode96) (Visualizer)
+- [Won Hwang](https://github.com/mangocode96)
 - [WonCheol Lee](https://www.kaggle.com/leewoncheol)
 - [YouNa Jung](https://www.kaggle.com/younajung)
 
