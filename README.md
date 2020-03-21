@@ -88,6 +88,9 @@ Also checkout our [Kaggle dataset](https://www.kaggle.com/kimjihoo/coronavirusda
 
 ## DS4C (Data Science for COVID-19) Project
 
+1. To reprocess information provided by KCDC and local governments for easy data analysis
+2. To find meaningful patterns by applying various data mining or visualization techniques
+
 ### Project Manager
 
 - [Jihoo Kim](https://www.kaggle.com/kimjihoo)
