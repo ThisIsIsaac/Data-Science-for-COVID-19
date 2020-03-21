@@ -62,18 +62,13 @@
 - **Errors in values**: Fill out [this](https://github.com/ThisIsIsaac/COVID-19_Korea_Dataset/issues/new?assignees=&labels=&template=data-error-report.md&title=) issue if there are alarming errors in the existing data. 
 
 ---
+## Special Thanks to:
 
-## Sources
+### Sponsors
 
-- [Korea Center for Disease Control](https://www.cdc.go.kr/cdc_eng/)
-- [NamuWiki](https://namu.wiki/w/%EC%BD%94%EB%A1%9C%EB%82%98%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4%EA%B0%90%EC%97%BC%EC%A6%9D-19/%ED%98%84%ED%99%A9/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD)
-- [CoronaBoard](https://coronaboard.kr/)
-- [Corona Dataset](https://github.com/jihoo-kim/Coronavirus-Dataset)
-- [SeoulCoronaPatients](http://dj.kbs.co.kr/resources/2020-02-03/)
-- [CoronaAlarm](https://corona-nearby.com/)
-- [SBS Corona Map](http://mabu.newscloud.sbs.co.kr/202002corona/web/index.html)
-- [Korea Open Dataset Portal](https://www.data.go.kr/search/index.do)
 
+
+### Working with
 
 ---
 
@@ -103,10 +98,23 @@
 - [TaeHyeong Park](https://www.kaggle.com/asdjfalksjdh)
 - [Won Hwang](https://github.com/mangocode96) (Visualizer)
 - [WonCheol Lee](https://www.kaggle.com/leewoncheol)
-- [YouNa Jung](https://www.kaggle.com/younajung
+- [YouNa Jung](https://www.kaggle.com/younajung)
 
 ### Logo Designer
 - [RinChong Kim](http://indesignlab.creatorlink.net/)
+
+---
+
+## Sources
+
+- [Korea Center for Disease Control](https://www.cdc.go.kr/cdc_eng/)
+- [NamuWiki](https://namu.wiki/w/%EC%BD%94%EB%A1%9C%EB%82%98%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4%EA%B0%90%EC%97%BC%EC%A6%9D-19/%ED%98%84%ED%99%A9/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD)
+- [CoronaBoard](https://coronaboard.kr/)
+- [Corona Dataset](https://github.com/jihoo-kim/Coronavirus-Dataset)
+- [SeoulCoronaPatients](http://dj.kbs.co.kr/resources/2020-02-03/)
+- [CoronaAlarm](https://corona-nearby.com/)
+- [SBS Corona Map](http://mabu.newscloud.sbs.co.kr/202002corona/web/index.html)
+- [Korea Open Dataset Portal](https://www.data.go.kr/search/index.do)
 
 
 ---
