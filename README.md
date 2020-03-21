@@ -71,7 +71,7 @@
 ### Working with
 <img src="https://github.com/ThisIsIsaac/COVID-19_Korea_Dataset/blob/update_README/images/1200px-SK_Telecom_Logo.svg.png" height="100" width="300">
 
-<img src="https://github.com/ThisIsIsaac/COVID-19_Korea_Dataset/blob/update_README/images/download.png" height="200" width="200">
+<img src="https://github.com/ThisIsIsaac/COVID-19_Korea_Dataset/blob/update_README/images/download.png" height="150" width="200">
 
 
 ---
