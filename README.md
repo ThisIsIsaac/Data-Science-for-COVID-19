@@ -65,7 +65,8 @@
 ## Special Thanks to:
 
 ### Sponsors
-![google_logo](https://github.com/ThisIsIsaac/COVID-19_Korea_Dataset/blob/update_README/images/Screen%20Shot%202020-03-21%20at%2017.43.13%20PM.png | width=100)
+
+<img src="https://github.com/ThisIsIsaac/COVID-19_Korea_Dataset/blob/update_README/images/Screen%20Shot%202020-03-21%20at%2017.43.13%20PM.png" height="24" width="48">
 
 ### Working with
 ![skt_logo](https://github.com/ThisIsIsaac/COVID-19_Korea_Dataset/blob/update_README/images/1200px-SK_Telecom_Logo.svg.png)
