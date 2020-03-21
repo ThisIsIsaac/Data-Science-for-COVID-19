@@ -77,12 +77,37 @@
 
 ---
 
-## Contributors
+## DS4C (Data Science for COVID-19) Project
 
-- [Joong Kun Lee](https://github.com/ThisIsIsaac) (Team Lead)
+### Project Manager
+
+- [Jihoo Kim](https://www.kaggle.com/kimjihoo)
+- [JoongKun Lee](https://github.com/ThisIsIsaac) (Team Lead)
+
+### Project Leader
+
+- [SeoJin Jang](https://www.kaggle.com/sarah5398)
+- [SeongHan Ryoo](https://www.kaggle.com/incastle)
+- [WanSik Choi](https://www.kaggle.com/wansook0316)
+- [YeonJun In](https://www.kaggle.com/mbnb8317)
+
+### Project Engineer
+
+- [BoYoung Song](https://www.kaggle.com/bysong)
+- [DongHwan Jang](https://github.com/DongHwanJang) (data)
+- [JuHwan Park](https://www.kaggle.com/parkjuhwan)
+- [KyeongWook Jang](https://www.kaggle.com/jeeudev)
+- [MinSeok Jung](https://www.kaggle.com/msjung)
 - [Mu Hwan Kim](https://github.com/minty99) (data)
-- [Dong Hwan Jang](https://github.com/DongHwanJang) (data)
+- [SangWook Park](https://www.kaggle.com/kvmoke)
+- [TaeHyeong Park](https://www.kaggle.com/asdjfalksjdh)
 - [Won Hwang](https://github.com/mangocode96) (Visualizer)
+- [WonCheol Lee](https://www.kaggle.com/leewoncheol)
+- [YouNa Jung](https://www.kaggle.com/younajung
+
+### Logo Designer
+- [RinChong Kim](http://indesignlab.creatorlink.net/)
+
 
 ---
 
