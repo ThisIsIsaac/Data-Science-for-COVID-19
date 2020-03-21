@@ -9,7 +9,9 @@
 
 > We are currently in the process of officially partnering up with the Korean CDC to bring more accurate and up-to-date data. And the most powerful tool to expedite the process is the sign of support from developers like you. So if you liked our work, please leave a :star: and share this with others. Your support makes our work meaningful. Thanks. - Isaac
 
-### Kaggle 
+---
+
+## Kaggle 
 
 <img src="https://github.com/ThisIsIsaac/COVID-19_Korea_Dataset/blob/update_README/images/kaggle.png">
 
