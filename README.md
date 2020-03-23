@@ -103,6 +103,7 @@ Also checkout our [Kaggle dataset](https://www.kaggle.com/kimjihoo/coronavirusda
 
 ### Project Leader
 
+- [Mu Hwan Kim](https://github.com/minty99)
 - [SeoJin Jang](https://www.kaggle.com/sarah5398)
 - [SeongHan Ryoo](https://www.kaggle.com/incastle)
 - [WanSik Choi](https://www.kaggle.com/wansook0316)
@@ -115,7 +116,6 @@ Also checkout our [Kaggle dataset](https://www.kaggle.com/kimjihoo/coronavirusda
 - [JuHwan Park](https://www.kaggle.com/parkjuhwan)
 - [KyeongWook Jang](https://www.kaggle.com/jeeudev)
 - [MinSeok Jung](https://www.kaggle.com/msjung)
-- [Mu Hwan Kim](https://github.com/minty99)
 - [SangWook Park](https://www.kaggle.com/kvmoke)
 - [TaeHyeong Park](https://www.kaggle.com/asdjfalksjdh)
 - [Won Hwang](https://github.com/mangocode96)
