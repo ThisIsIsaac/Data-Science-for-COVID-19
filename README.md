@@ -76,18 +76,10 @@ Also checkout our [Kaggle dataset](https://www.kaggle.com/kimjihoo/coronavirusda
 
 ### Sponsors
 
-<img src="https://github.com/ThisIsIsaac/COVID-19_Korea_Dataset/blob/update_README/images/google.png" height="100" width="300">
-
-<img src="https://github.com/ThisIsIsaac/COVID-19_Korea_Dataset/blob/update_README/images/slack.png" height="100" width="300">
+<img src="https://github.com/ThisIsIsaac/COVID-19_Korea_Dataset/blob/update_README/images/sponsors.png">
 
 ### Working with
-<img src="https://github.com/ThisIsIsaac/COVID-19_Korea_Dataset/blob/update_README/images/skt.png" height="100" width="300">
-
-<img src="https://github.com/ThisIsIsaac/COVID-19_Korea_Dataset/blob/update_README/images/mindslab.png" height="150" width="200">
-
-<img src="https://github.com/ThisIsIsaac/COVID-19_Korea_Dataset/blob/update_README/images/bigleader.png" height="100" width="300">
-
-
+<img src="https://github.com/ThisIsIsaac/COVID-19_Korea_Dataset/blob/update_README/images/working_with.png">
 
 ---
 
