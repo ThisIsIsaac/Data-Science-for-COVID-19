@@ -1,5 +1,5 @@
 
-![banner](https://github.com/ThisIsIsaac/COVID-19_Korea_Dataset/blob/update_README/images/DS4C_banner.png)
+![banner](https://github.com/ThisIsIsaac/COVID-19_Korea_Dataset/blob/master/images/DS4C_banner.png)
 ![issueBadge](https://img.shields.io/github/issues/ThisIsIsaac/COVID-19_Korea_Dataset)   ![starBadge](https://img.shields.io/github/stars/ThisIsIsaac/COVID-19_Korea_Dataset)   ![repoSize](https://img.shields.io/github/repo-size/ThisIsIsaac/COVID-19_Korea_Dataset)  ![lastCommit](https://img.shields.io/github/last-commit/ThisIsIsaac/COVID-19_Korea_Dataset) 
 ---
 
@@ -13,7 +13,7 @@
 
 ## Kaggle 
 
-<img src="https://github.com/ThisIsIsaac/COVID-19_Korea_Dataset/blob/update_README/images/kaggle.png">
+<img src="https://github.com/ThisIsIsaac/COVID-19_Korea_Dataset/blob/master/images/kaggle.png">
 
 Also checkout our [Kaggle dataset](https://www.kaggle.com/kimjihoo/coronavirusdataset).
 
@@ -79,7 +79,7 @@ Also checkout our [Kaggle dataset](https://www.kaggle.com/kimjihoo/coronavirusda
 <img src="https://github.com/ThisIsIsaac/COVID-19_Korea_Dataset/blob/master/images/sponsors.png">
 
 ### Working with
-<img src="https://github.com/ThisIsIsaac/COVID-19_Korea_Dataset/blob/update_README/images/working_with.png">
+<img src="https://github.com/ThisIsIsaac/COVID-19_Korea_Dataset/blob/master/images/working_with.png">
 
 ---
 
