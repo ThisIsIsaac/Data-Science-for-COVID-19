@@ -76,7 +76,7 @@ Also checkout our [Kaggle dataset](https://www.kaggle.com/kimjihoo/coronavirusda
 
 ### Sponsors
 
-<img src="https://github.com/ThisIsIsaac/COVID-19_Korea_Dataset/blob/update_README/images/sponsors.png">
+<img src="https://github.com/ThisIsIsaac/COVID-19_Korea_Dataset/blob/master/images/sponsors.png">
 
 ### Working with
 <img src="https://github.com/ThisIsIsaac/COVID-19_Korea_Dataset/blob/update_README/images/working_with.png">
