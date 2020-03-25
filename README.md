@@ -98,7 +98,6 @@ Also checkout our [Kaggle dataset](https://www.kaggle.com/kimjihoo/coronavirusda
 
 ### Project Manager
 
-- [Jihoo Kim](https://www.kaggle.com/kimjihoo)
 - [JoongKun Lee](https://github.com/ThisIsIsaac)
 
 ### Project Leader
@@ -124,6 +123,10 @@ Also checkout our [Kaggle dataset](https://www.kaggle.com/kimjihoo/coronavirusda
 
 ### Logo Designer
 - [RinChong Kim](http://indesignlab.creatorlink.net/)
+
+### Project Advisor
+
+- [Jihoo Kim](https://www.kaggle.com/kimjihoo)
 
 ---
 
