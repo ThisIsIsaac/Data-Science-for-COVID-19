@@ -1,11 +1,11 @@
 
-![banner](https://github.com/ThisIsIsaac/COVID-19_Korea_Dataset/blob/master/images/DS4C_banner.png)
-![issueBadge](https://img.shields.io/github/issues/ThisIsIsaac/COVID-19_Korea_Dataset)   ![starBadge](https://img.shields.io/github/stars/ThisIsIsaac/COVID-19_Korea_Dataset)   ![repoSize](https://img.shields.io/github/repo-size/ThisIsIsaac/COVID-19_Korea_Dataset)  ![lastCommit](https://img.shields.io/github/last-commit/ThisIsIsaac/COVID-19_Korea_Dataset) 
+![banner](https://github.com/ThisIsIsaac/Data-Science-for-COVID-19/blob/master/images/DS4C_banner.png)
+![issueBadge](https://img.shields.io/github/issues/ThisIsIsaac/Data-Science-for-COVID-19)   ![starBadge](https://img.shields.io/github/stars/ThisIsIsaac/Data-Science-for-COVID-19)   ![repoSize](https://img.shields.io/github/repo-size/ThisIsIsaac/Data-Science-for-COVID-19)  ![lastCommit](https://img.shields.io/github/last-commit/ThisIsIsaac/Data-Science-for-COVID-19) 
 ---
 
 ## COVID-19 Korea Dataset with patient routes and visualizer
 
-![heatmap.gif](https://github.com/ThisIsIsaac/COVID-19_Korea_Dataset/blob/master/images/heatmap.gif)
+![heatmap.gif](https://github.com/ThisIsIsaac/Data-Science-for-COVID-19/blob/master/images/heatmap.gif)
 
 > We are currently in the process of officially partnering up with the Korean CDC to bring more accurate and up-to-date data. And the most powerful tool to expedite the process is the sign of support from developers like you. So if you liked our work, please leave a :star: and share this with others. Your support makes our work meaningful. Thanks. - Isaac
 
@@ -13,7 +13,7 @@
 
 ## Kaggle 
 
-<img src="https://github.com/ThisIsIsaac/COVID-19_Korea_Dataset/blob/master/images/kaggle.png">
+<img src="https://github.com/ThisIsIsaac/Data-Science-for-COVID-19/blob/master/images/kaggle.png">
 
 Also checkout our [Kaggle dataset](https://www.kaggle.com/kimjihoo/coronavirusdataset).
 
@@ -23,7 +23,7 @@ Also checkout our [Kaggle dataset](https://www.kaggle.com/kimjihoo/coronavirusda
 
 **Dataset components**:
 1. Patient routes (more coming!)
-2. Patient age / gender / diagnosed date (based on Jihoo's [dataset](https://github.com/jihoo-kim/Coronavirus-Dataset))
+2. Patient age / gender / diagnosed date
 
 ---
 
@@ -51,7 +51,7 @@ Also checkout our [Kaggle dataset](https://www.kaggle.com/kimjihoo/coronavirusda
 2. Visualizes changes in the number of patients and route with time
 3. Displays non-COVID-19 data as heatmap
 
-![visualizer.gif](https://github.com/ThisIsIsaac/COVID-19_Korea_Dataset/blob/master/images/visualizer.gif)
+![visualizer.gif](https://github.com/ThisIsIsaac/Data-Science-for-COVID-19/blob/master/images/visualizer.gif)
 
 ---
 
@@ -68,18 +68,18 @@ Also checkout our [Kaggle dataset](https://www.kaggle.com/kimjihoo/coronavirusda
 
 ## How to Give Feedback
 
-- **Data request**: Fill out [this](https://github.com/ThisIsIsaac/COVID-19_Korea_Dataset/issues/new?assignees=&labels=&template=data-request.md&title=) issue to request for specefic data, and we will try our best to gather them.
-- **Errors in values**: Fill out [this](https://github.com/ThisIsIsaac/COVID-19_Korea_Dataset/issues/new?assignees=&labels=&template=data-error-report.md&title=) issue if there are alarming errors in the existing data. 
+- **Data request**: Fill out [this](https://github.com/ThisIsIsaac/Data-Science-for-COVID-19/issues/new?assignees=&labels=&template=data-request.md&title=) issue to request for specefic data, and we will try our best to gather them.
+- **Errors in values**: Fill out [this](https://github.com/ThisIsIsaac/Data-Science-for-COVID-19/issues/new?assignees=&labels=&template=data-error-report.md&title=) issue if there are alarming errors in the existing data. 
 
 ---
 ## Special Thanks to:
 
 ### Sponsors
 
-<img src="https://github.com/ThisIsIsaac/COVID-19_Korea_Dataset/blob/master/images/sponsors.png">
+<img src="https://github.com/ThisIsIsaac/Data-Science-for-COVID-19/blob/master/images/sponsors.PNG">
 
 ### Working with
-<img src="https://github.com/ThisIsIsaac/COVID-19_Korea_Dataset/blob/master/images/working_with.png">
+<img src="https://github.com/ThisIsIsaac/Data-Science-for-COVID-19/blob/master/images/working_with.png">
 
 ---
 
