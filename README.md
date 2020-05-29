@@ -13,7 +13,7 @@
 
 ## Kaggle 
 
-<img src="https://github.com/ThisIsIsaac/Data-Science-for-COVID-19/blob/master/images/kaggle.png">
+<img src="https://user-images.githubusercontent.com/50820635/83268052-096c1780-a200-11ea-80db-ea808378fd3e.PNG">
 
 Also checkout our [Kaggle dataset](https://www.kaggle.com/kimjihoo/coronavirusdataset).
 
