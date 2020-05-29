@@ -144,7 +144,7 @@ Also checkout our [Kaggle dataset](https://www.kaggle.com/kimjihoo/coronavirusda
 ### 4) Sponsor
 - Google Korea ([Soonson Kwon](https://kldp.org/~kss/))  
 - Slack Technologies ([Andy Pflaum](https://www.linkedin.com/in/andypflaum/))  
-- Notion Notion Labs  
+- Notion Labs  
 
 <img src="https://user-images.githubusercontent.com/50820635/77623631-c4b7cc00-6f83-11ea-85d8-fc0c25d28af2.PNG" width="600">
 
