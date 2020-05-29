@@ -73,7 +73,7 @@ Also checkout our [Kaggle dataset](https://www.kaggle.com/kimjihoo/coronavirusda
 
 ---
 
-&gt; **DS4C (Data Science for COVID-19) Project**  [(Github)](https://github.com/ThisIsIsaac/Data-Science-for-COVID-19)
+## DS4C (Data Science for COVID-19) Project
 1. To reprocess information provided by KCDC and local governments for easy data analysis
 2. To find meaningful patterns by applying various data mining or visualization techniques
 - **Project Manager (PM)**
@@ -104,7 +104,7 @@ Also checkout our [Kaggle dataset](https://www.kaggle.com/kimjihoo/coronavirusda
   - [RinChong Kim](http://indesignlab.creatorlink.net)
 
 
-***
+---
 
 ## Partnership
 ### 1) Competition
