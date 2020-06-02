@@ -84,7 +84,6 @@ Also checkout our [Kaggle dataset](https://www.kaggle.com/kimjihoo/coronavirusda
   - [SeoJin Jang](https://www.kaggle.com/sarah5398)
   - [SeongHan Ryoo](https://www.kaggle.com/incastle)
   - [YeonJun In](https://www.kaggle.com/mbnb8317)
-  - [ByeongUk Yu](https://www.kaggle.com/byeongukyu) (absent)
 - **Project Engineer (PE)**
   - [BoYoung Song](https://www.kaggle.com/bysong)
   - [Jimi Kim](https://github.com/kjm0623v)
