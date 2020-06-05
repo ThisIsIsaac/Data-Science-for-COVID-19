@@ -125,6 +125,8 @@ Also checkout our [Kaggle dataset](https://www.kaggle.com/kimjihoo/coronavirusda
 - [Ardiansyah Ardiansyah](https://www.linkedin.com/in/ardiansyahdotid) (Chonnam National University)  
 - [Atina Husnayain](https://www.medrxiv.org/content/10.1101/2020.04.23.20077552v1) (College of Medical Science and Technology, Taipei Medical University)  
 - [Carlos Saez](https://avillach-lab.hms.harvard.edu/people/carlos-s%C3%A1ez) (Universitat Politècnica de València & Harvard Medical School)  
+- [Dimitrios E. Kouzoukas](https://www.linkedin.com/in/dimitrios-kouzoukas/) (Edward Hines, Jr. VA Hospital & Loyola University Chicago)
+
 
 <img src="https://user-images.githubusercontent.com/50820635/83261173-e8062e00-a1f5-11ea-9968-1259e1b704d1.PNG" width="600">
 
