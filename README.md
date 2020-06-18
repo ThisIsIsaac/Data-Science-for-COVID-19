@@ -76,29 +76,29 @@ Also checkout our [Kaggle dataset](https://www.kaggle.com/kimjihoo/coronavirusda
 ## DS4C (Data Science for COVID-19) Project
 1. To reprocess information provided by KCDC and local governments for easy data analysis
 2. To find meaningful patterns by applying various data mining or visualization techniques
-- **Project Manager (PM)**
+- **Chief Research Director**
   - [Jihoo Kim](https://www.kaggle.com/kimjihoo)
   - [JoongKun Lee](https://github.com/ThisIsIsaac)
-- **Project Leader (PL)**
-  - [MuHwan Kim](https://github.com/minty99)
+- **Senior Research Engineer**
   - [SeoJin Jang](https://www.kaggle.com/sarah5398)
   - [SeongHan Ryoo](https://www.kaggle.com/incastle)
   - [YeonJun In](https://www.kaggle.com/mbnb8317)
-- **Project Engineer (PE)**
-  - [BoYoung Song](https://www.kaggle.com/bysong)
+  - [WonCheol Lee](https://www.kaggle.com/leewoncheol)
+  - [DongHwan Jang](https://github.com/DongHwanJang)
   - [Jimi Kim](https://github.com/kjm0623v)
+  - [MuHwan Kim](https://github.com/minty99) (absent)
+- **Research Engineer**
+  - [BoYoung Song](https://www.kaggle.com/bysong)
   - [KyeongWook Jang](https://www.kaggle.com/jeeudev)
   - [MinSeok Jung](https://www.kaggle.com/msjung)
   - [SangWook Park](https://www.kaggle.com/kvmoke)
   - [TaeHyeong Park](https://www.kaggle.com/asdjfalksjdh)
   - [WanSik Choi](https://www.kaggle.com/wansook0316)
-  - [WonCheol Lee](https://www.kaggle.com/leewoncheol)
   - [YouNa Jung](https://www.kaggle.com/younajung)
-  - [DongHwan Jang](https://github.com/DongHwanJang)
 
 - **Former Maintainer**
-  - [JuHwan Park](https://www.kaggle.com/parkjuhwan) (PE)
-  - [Won Hwang](https://github.com/mangocode96) (PE)
+  - [JuHwan Park](https://www.kaggle.com/parkjuhwan)
+  - [Won Hwang](https://github.com/mangocode96)
 - **Logo Designer**
   - [RinChong Kim](http://indesignlab.creatorlink.net)
 
