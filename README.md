@@ -118,7 +118,7 @@ Also checkout our [Kaggle dataset](https://www.kaggle.com/kimjihoo/coronavirusda
 ### 2) Research  
 - [Maggie Munkhjargal](https://www.linkedin.com/in/maggie-munkhjargal-md-ph-d-candidate-473a0163/) (Harvard T.H. Chan School of Public Health)  
 - [Gwang-Jin Kim](https://www.linkedin.com/in/gwang-jin-kim-374b8867/) (University of Freiburg)  
-- [Sofia K. Mettler](https://www.medrxiv.org/content/10.1101/2020.05.05.20070946v1) (Swiss Federal Institute of Technology, University of Zurich)  
+- [Sofia K. Mettler](https://www.linkedin.com/in/sofia-kyonhi-mettler-ab23981b2/) (Swiss Federal Institute of Technology, University of Zurich)  
 - [Myung-Bae Park](https://silvermed.pcu.ac.kr/_silvermed/sub02/sub020401.html) (Department of Gerontology Health and Welfare, Pai Chai University)  
 - [Jinhee Lee](https://www.ywmc.or.kr/web/www/psychiatry/doc) (Department of Psychiatry, Yonsei University Wonju College of Medicine)  
 - [Sun Kim](https://www.linkedin.com/in/sun-kim-035585124/) (Harvard T.H. Chan School of Public Health)  
