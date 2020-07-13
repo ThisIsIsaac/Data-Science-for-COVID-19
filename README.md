@@ -13,7 +13,7 @@
 
 ## Kaggle 
 
-<img src="https://user-images.githubusercontent.com/50820635/83268052-096c1780-a200-11ea-80db-ea808378fd3e.PNG">
+<img src="https://user-images.githubusercontent.com/50820635/87324270-d4771280-c56a-11ea-9e85-6749c2c640dd.PNG">
 
 Also checkout our [Kaggle dataset](https://www.kaggle.com/kimjihoo/coronavirusdataset).
 
