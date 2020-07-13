@@ -107,13 +107,19 @@ Also checkout our [Kaggle dataset](https://www.kaggle.com/kimjihoo/coronavirusda
 
 ## Partnership
 ### 1) Competition
-- [COVID-19 Visualization & AI Competition](https://dacon.io/competitions/official/235590/overview/) (with DACON)
-   - Winners' Code  
-[1st Place](https://dacon.io/competitions/official/235590/codeshare/949) (Visualizing Korea)  
-[2nd Place](https://dacon.io/competitions/official/235590/codeshare/997) (Job_seeker)  
-[3rd Place](https://dacon.io/competitions/official/235590/codeshare/1001) (Mulcamer)  
+- [COVID-19 Visualization & AI Competition](https://dacon.io/competitions/official/235590/overview/) (DACON)
+   - 2020.03.29 ~ 2020.05.10
+   - Winners' Code
+[1st Place](https://dacon.io/competitions/official/235590/codeshare/949) (Visualizing Korea)
+[2nd Place](https://dacon.io/competitions/official/235590/codeshare/997) (Job_seeker)
+[3rd Place](https://dacon.io/competitions/official/235590/codeshare/1001) (Mulcamer) 
+- [Post-Corona Data Visualization Competition](https://dacon.io/competitions/official/235618/overview/) (KT)
+   - 2020.07.01 ~ 2020.07.31
+- [Transport Big Data Online Hackathon](https://dacon.io/competitions/official/235622/overview/) (Ministry of Land, Infrastructure and Transport)
+   - 2020.07.14 ~ 2020.09.04
 
-<img src="https://user-images.githubusercontent.com/50820635/83237703-4b7d6500-a1d0-11ea-8b7c-2757125637de.PNG" width="600">  
+<img src="https://user-images.githubusercontent.com/50820635/87323213-6f6eed00-c569-11ea-9ca0-965b984e25de.PNG" width="600">
+
 
 ### 2) Research  
 - [Maggie Munkhjargal](https://www.linkedin.com/in/maggie-munkhjargal-md-ph-d-candidate-473a0163/) (Harvard T.H. Chan School of Public Health)  
