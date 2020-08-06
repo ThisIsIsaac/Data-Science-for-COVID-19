@@ -160,8 +160,10 @@ Also checkout our [Kaggle dataset](https://www.kaggle.com/kimjihoo/coronavirusda
 - [Big Leader Institute](http://bigleader.net/)  
 - [MINDs Lab](https://mindslab.ai:8080/kr/company)  
 - [SK Telecom Geovision](http://b2b.tworld.co.kr/bizts/solution/solutionTemplate.bs?solutionId=0022)  
+- [Databricks](https://redash-demo.dev.databricks.com/public/dashboards/iGnxBLpGi7lSTZlH4AwlwmPmEZZo1FKJNKBtUm2Y?org_slug=default)
+- [CoronaBoard](https://coronaboard.kr/)
 
-<img src="https://user-images.githubusercontent.com/50820635/77494409-03b52700-6e89-11ea-9de5-6bf0a621134a.PNG" width="600">
+<img src="https://user-images.githubusercontent.com/50820635/89502126-72bf6680-d7ff-11ea-926b-9e7ee6d414b8.PNG" width="600">
 
 ---
 
