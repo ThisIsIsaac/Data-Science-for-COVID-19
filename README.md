@@ -98,7 +98,7 @@ Also checkout our [Kaggle dataset](https://www.kaggle.com/kimjihoo/coronavirusda
 
 - **Former Maintainer**
   - [JuHwan Park](https://www.kaggle.com/parkjuhwan)
-  - [Won Hwang](https://github.com/mangocode96)
+  - [Won Hwang](https://github.com/mang5o)
 - **Logo Designer**
   - [RinChong Kim](http://indesignlab.creatorlink.net)
 
